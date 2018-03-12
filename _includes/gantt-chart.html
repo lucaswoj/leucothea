@@ -1,0 +1,82 @@
+<!-- See documentation at https://developers.google.com/chart/interactive/docs/gallery/ganttchart -->
+
+<div id="gantt-chart"></div>
+
+<style>
+  #gantt-chart text {
+    font-family: Arial !important;
+    font-size: 12px !important;
+  }
+
+  #gantt-chart rect {
+    cursor: pointer !important;
+  }
+</style>
+
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script>
+
+  google.charts.load('current', {'packages':['gantt']});
+
+  var element = document.getElementById('gantt-chart');
+
+  var projects = {{site.projects | jsonify}};
+
+  function drawGanttChart() {
+
+    var dataTable = new google.visualization.DataTable({
+      cols: [
+        {type: 'string', id: 'Task ID'},
+        {type: 'string', id: 'Task Name'},
+        {type: 'date', id: 'Start Date'},
+        {type: 'date', id: 'End Date'},
+        {type: 'number', id: 'Duration'},
+        {type: 'number', id: 'Percent Complete'},
+        {type: 'string', id: 'Dependencies'}
+      ],
+      rows: projects.map((project) => {
+        return {c: [
+          { v: project.slug },
+          { v: project.title }, // 'Task Name'
+          { v: null }, // Date // 'Start Date'
+          { v: null }, // Date // 'End Date'
+          { v: 1000 * 60 * 60 * 24 * 7 }, // integer milliseconds // 'Duration'
+          { v: getPercentComplete(project.content) }, // integer 1 to 100 // 'Percent Complete'
+          { v: (project.dependencies || []).join(',') } // 'Dependencies'
+        ]}
+      })
+    });
+
+    var chart = new google.visualization.Gantt(element);
+
+    chart.draw(dataTable, {
+      height: {{ include.height }},
+      gantt: { labelStyle: { fontName: '' } }
+    });
+
+    google.visualization.events.addListener(chart, 'select', () => {
+      var project = projects[chart.getSelection()[0].row];
+      window.location = project.url;
+    });
+
+  }
+
+  function getPercentComplete(content) {
+    var total = countSubstring(content, 'type="checkbox"');
+    var completed = countSubstring(content, 'checked="checked"');
+    if (total == 0) {
+      return 100;
+    } else {
+      return completed / total * 100;
+    }
+  }
+
+  function countSubstring(haystack, needle) {
+    return haystack.split(needle).length - 1;
+  }
+
+  google.charts.setOnLoadCallback(drawGanttChart);
+  window.addEventListener('resize', drawGanttChart);
+
+</script>
