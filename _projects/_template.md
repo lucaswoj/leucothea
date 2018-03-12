@@ -2,7 +2,7 @@
 title:
 dependencies:
 startDate:
-finishDate:
+endDate:
 duration:
 ---
 

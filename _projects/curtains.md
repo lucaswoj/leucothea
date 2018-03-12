@@ -2,7 +2,7 @@
 title: Curtains
 dependencies:
 startDate:
-finishDate:
+endDate:
 duration:
 ---
 

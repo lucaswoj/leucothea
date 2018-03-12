@@ -2,7 +2,7 @@
 title: Rustproofing
 dependencies:
 startDate:
-finishDate: March 23rd, 2018
+endDate:
 duration: 1
 ---
 
