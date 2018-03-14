@@ -1,0 +1,48 @@
+---
+---
+
+$r: 10px;
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 2 * $r auto;
+  width: $r * 70;
+  color: #222;
+}
+
+.task-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.task-list-item-checkbox {
+  margin-left: 13px;
+  margin-right: 13px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #111;
+}
+
+.anchorjs-link {
+  color: #111;
+
+  &:hover, &:active, &:visited {
+    color: #111;
+  }
+}
+
+blockquote {
+  background-color: #eee;
+  padding: $r $r * 2;
+  margin: 0;
+}
+
+p {
+  margin: $r 0;
+}
+
+hr {
+  margin: $r * 5 0;
+  border-top: 3px dashed #333;
+}
