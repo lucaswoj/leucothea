@@ -3,7 +3,7 @@ title: Rustproofing
 dependencies:
 startDate:
 endDate:
-duration:
+duration: 1
 ---
 
 ## Prior Art
@@ -60,13 +60,19 @@ https://www.reddit.com/r/vandwellers/comments/6ge24c/interior_painting_tips_shou
 
 ## Open Questions
 
- - [ ] **Should I use spray-on or paint-on rustproofing?**
- - [ ] **Should I use primer + enamel or a standalone rust inhibitor?**
- - [ ] **Should I paint all surfaces or just the floor?**
- - [x] **How long will it take to dry? Where can I put it while it dries?**
- - [x] **Do I need to rustproof the inside at all?** Not really...
- - [x] **What brand of rustproofing should I use?** Rust-oleum is the most popular, most trusted, and easy to find in stores.  
- - [x] **Should I use a zinc metal primer?** No, requires unpainted surface.
+### Should I use spray-on or paint-on rustproofing?
+### Should I use primer + enamel or a standalone rust inhibitor?
+### Should I paint all surfaces or just the floor?
+### Where can I put it while it dries?
+### How long will it take to dry?
+### Do I need to rustproof the inside at all?
+Not really...
+
+### What brand of rustproofing should I use?
+Rust-oleum is the most popular, most trusted, and easy to find in stores.
+
+### Should I use a zinc metal primer?
+No, requires unpainted surface.
 
 ## Requirements
 

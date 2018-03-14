@@ -3,7 +3,7 @@ title: Insulation
 dependencies: rustproofing
 startDate:
 endDate:
-duration:
+duration: 7
 ---
 
 ## Theory

@@ -57,6 +57,11 @@ duration:
 
 <!-- TODO -->
 
+## Open Questions
+
+### Should I buy curtains or make them myself?
+### Should I insulate the curtains or not?
+### Should I put a curtain in front of the cockpit or on all the windows?
 
 ## Requirements
 
@@ -64,12 +69,6 @@ duration:
  - Keep van cool in warm weather
  - Dampen sound
  - Provide privacy for people & things inside van
-
-## Open Questions
-
- - [ ] **Should I buy curtains or make them myself?**
- - [ ] **Should I insulate the curtains or not?**
- - [ ] **Should I put a curtain in front of the cockpit or on all the windows?**
 
 ## Specifications & Procedure
 
@@ -80,5 +79,3 @@ duration:
 ### Procedure
 
 <!-- TODO -->
-
----

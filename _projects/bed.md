@@ -6,11 +6,12 @@ endDate:
 duration: 3
 ---
 
+## Open Questions
+
+### How will I secure things stored underneath bed?
+
+
 ## Requirements
 
  - Low enough to sit up in
  - Flush with [kitchen]({% link _projects/kitchen.md %}) counter
-
-## Open Questions
-
- - [ ] How will I secure things stored underneath bed?

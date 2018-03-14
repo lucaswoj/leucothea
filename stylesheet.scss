@@ -1,48 +1,72 @@
 ---
 ---
 
-$r: 10px;
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0.75em;
+  color: #111;
+}
 
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 2 * $r auto;
-  width: $r * 70;
-  color: #222;
+h3 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+details {
+  summary {
+    margin-left: -17px;
+
+    &:focus {
+      outline: none;
+    }
+
+    h2 {
+      display: inline-block;
+      margin-bottom: 0;
+    }
+  }
+}
+
+blockquote {
+  overflow: hidden;
+  padding: 1rem 1rem 0;
+  margin: 1rem 0;
+  background-color: #f5f5f7;
 }
 
 .task-list {
   list-style: none;
   padding-left: 0;
-}
 
-.task-list-item-checkbox {
-  margin-left: 13px;
-  margin-right: 13px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #111;
-}
-
-.anchorjs-link {
-  color: #111;
-
-  &:hover, &:active, &:visited {
-    color: #111;
+  .task-list-item-checkbox {
+    margin-left: 13px;
+    margin-right: 13px;
   }
 }
 
-blockquote {
-  background-color: #eee;
-  padding: $r $r * 2;
-  margin: 0;
+.anchorjs-link {
+  color: inherit;
+
+  &:hover, &:active, &:visited {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 
-p {
-  margin: $r 0;
+#gantt text {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !important;
+  font-size: 13px !important; // anything bigger doesn't work
+
+  &[fill="#5e97f6"] {
+    font-size: 15px !important;
+  }
 }
 
-hr {
-  margin: $r * 5 0;
-  border-top: 3px dashed #333;
+#gantt rect[fill="#5e97f6"],
+#gantt rect[fill="#2a56c6"],
+#gantt path[fill="#204195"],
+#gantt text[fill="#5e97f6"] {
+  cursor: pointer !important;
 }

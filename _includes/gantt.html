@@ -2,19 +2,6 @@
 
 <div id="gantt"></div>
 
-<style>
-  #gantt text {
-    font-family: Arial !important;
-    font-size: 12px !important;
-  }
-
-  #gantt rect[fill="#5e97f6"],
-  #gantt rect[fill="#2a56c6"],
-  #gantt path[fill="#204195"] {
-    cursor: pointer !important;
-  }
-</style>
-
 <script src="https://www.gstatic.com/charts/loader.js"></script>
 
 <script>
@@ -43,7 +30,7 @@
             { v: {% if project.startDate %} new Date({{project.startDate | jsonify}}) {% else %} null {% endif %} }, // Start Date
             { v: {% if project.endDate %} new Date({{project.endDate | jsonify}}) {% else %} null {% endif %} }, // End Date
             { v: {{project.duration | default: 2 | times: 86400000 | jsonify}} }, // Duration (ms)
-            { v: Math.round({{project.content | split: 'checked="checked"' | size | minus: 1 }} / {{project.content | split: 'type="checkbox"' | size | minus: 1 }} * 100) }, // Percent Complete (1 - 100)
+            { v: Math.round({{project.content | split: 'checked="checked"' | size | minus: 1 }} / {{project.content | split: 'type="checkbox"' | size | minus: 1 }} * 100) || 0 }, // Percent Complete (1 - 100)
             { v: {{project.dependencies | join: ',' | jsonify}} } // Dependencies
           ]},
         {% endfor %}
@@ -55,7 +42,8 @@
     chart.draw(dataTable, {
       height: {{ include.height | jsonify }},
       gantt: {
-        labelStyle: { fontName: '' },
+        innerGridDarkTrack: { fill: '#f8f9fa' },
+        innerGridHorizLine: { strokeWidth: 0 }
       }
     });
 
