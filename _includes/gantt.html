@@ -51,7 +51,7 @@
       switch (chart.getSelection()[0].row) {
         {% for project in site.projects %}
           case {{forloop.index | minus: 1}}:
-            window.location = {{project.url | jsonify}};
+            window.location = {{project.url | relative_url | jsonify}};
             break;
         {% endfor %}
       }

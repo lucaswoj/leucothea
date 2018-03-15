@@ -9,10 +9,9 @@ title: Master Materials List
 
 {% if bar %}
 
-## [{{project.title}}]({{project.url}})
+## [{{project.title}}]({{project.url | relative_url}})
 
 {{bar}}
 
 {% endif %}
-
 {% endfor %}
