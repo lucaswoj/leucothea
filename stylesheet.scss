@@ -16,6 +16,7 @@ h4 {
 
 details {
   summary {
+    overflow: hidden;
     margin-left: -17px;
 
     &:focus {
