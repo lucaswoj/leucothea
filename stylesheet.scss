@@ -14,22 +14,6 @@ h4 {
   font-size: 1.1em;
 }
 
-details {
-  summary {
-    overflow: hidden;
-    margin-left: -17px;
-
-    &:focus {
-      outline: none;
-    }
-
-    h2 {
-      display: inline-block;
-      margin-bottom: 0;
-    }
-  }
-}
-
 blockquote {
   overflow: hidden;
   padding: 1rem 1rem 0;
@@ -47,15 +31,6 @@ blockquote {
   }
 }
 
-.anchorjs-link {
-  color: inherit;
-
-  &:hover, &:active, &:visited {
-    color: inherit;
-    text-decoration: none;
-  }
-}
-
 #gantt text {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !important;
   font-size: 13px !important; // anything bigger doesn't work
@@ -70,4 +45,8 @@ blockquote {
 #gantt path[fill="#204195"],
 #gantt text[fill="#5e97f6"] {
   cursor: pointer !important;
+}
+
+hr {
+  margin: 50px 0;
 }
