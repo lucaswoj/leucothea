@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href='{{site.baseurl}}/stylesheet.css' rel='stylesheet' />
     <title>{{ page.title }}</title>
@@ -44,35 +44,9 @@
     </nav>
 
     <div class="container">
-
       <h1>{{page.title}}</h1>
-
       {{ content }}
-
     </container>
-
-    <script>
-      // Wrap "Prior Art" section in a collapsible "details" tag
-      collapseSection('prior-art');
-      collapseSection('open-questions');
-
-      function collapseSection(id) {
-        var headingElement = document.getElementById(id);
-        if (!headingElement) return;
-        var element = headingElement.nextSibling;
-        var detailsElement = document.createElement('details');
-        var summaryElement = document.createElement('summary');
-        headingElement.parentNode.insertBefore(detailsElement, headingElement);
-        summaryElement.appendChild(headingElement);
-        detailsElement.appendChild(summaryElement);
-        while (element && element.tagName !== 'H2') {
-          var nextElement = element.nextSibling;
-          detailsElement.appendChild(element);
-          element = nextElement;
-        }
-      }
-
-    </script>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

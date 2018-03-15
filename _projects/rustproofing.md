@@ -6,7 +6,38 @@ endDate:
 duration: 2
 ---
 
-## Prior Art
+## Requirements
+
+ - Prevent interior body rust underneath insulation & flooring
+ - Last forever
+ - Be easy to apply
+
+## Specifications & Procedure
+
+### Tools & Materials
+
+ - [x] Detergent
+ - [x] Paper towel
+ - [x] 8oz Rust-Oleum Stops Rust Protective Enamel Gloss White ($3, 16 sq ft of coverage, [product page](https://www.rustoleum.com/product-catalog/consumer-brands/stops-rust/protective-enamel), [technical data](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-02_Stops_Rust_Enamel_Brush_TDS.ashx))
+ - [x] Foam brushes
+ - [x] Sandpaper
+
+### Procedure
+
+Paint requires that temperature is between 50-90°F and humidity is below 65%.
+
+ - [ ] Empty the interior
+ - [ ] Wash floor with a detergent
+ - [ ] Rinse floor with fresh water
+ - [ ] Dry floor
+ - [ ] Sand over any exposed metal on floor to prepare the surface for paint
+ - [ ] Paint over any exposed metal on floor
+ - [ ] Leave doors open while paint dries. Paint dries to the touch in 2-4 hours, to handle in 5-9 hours and
+is fully dry after 24 hours.
+
+---
+
+## Appendix A: Prior Art
 
 ### [The Vanual](http://thevanual.com)
 
@@ -58,7 +89,7 @@ Suggests Rust-Oleum Stop Rust Clean Metal Primer plus Rust-Oleum Stops Rust Enam
 
 https://www.reddit.com/r/vandwellers/comments/6ge24c/interior_painting_tips_should_i_start_with_anti/
 
-## Open Questions
+## Appendix B: Open Questions
 
 ### Should I use an auto paint repair kit instead?
 
@@ -92,48 +123,3 @@ Rust-oleum is the most popular, most trusted, and easy to find in stores.
 
 ### Should I use a zinc metal primer?
 No, requires unpainted surface.
-
-## Requirements
-
- - Prevent interior body rust underneath insulation & flooring
- - Last forever
- - Be easy to apply
-
-## Specifications & Procedure
-
-### Tools & Materials
-
- - [ ] Detergent
- - [ ] Painter's tape
- - [ ] Scrubbing brush
-
-#### If I go with regular paint...
-
-- [ ] Rust-Oleum Stops Rust Clean Metal Primer ($8, [product page](https://www.rustoleum.com/product-catalog/consumer-brands/stops-rust/clean-metal-primer/), [technical data sheet](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-11_Stops_Rust_Primer_Brush_TDS.ashx))
-- [ ] Rust-Oleum Stops Rust Protective Enamel Gloss White ($8, [product page](https://www.rustoleum.com/product-catalog/consumer-brands/stops-rust/protective-enamel), [technical data](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-02_Stops_Rust_Enamel_Brush_TDS.ashx))
- - [ ] Paint roller + tray OR paint brush
-
-#### If I go with spray paint...
-
- - [ ] Rust-Oleum Stop Rust Clean Metal Primer Spray ([technical data](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-10_Stops_Rust_Primer_Sprays_TDS.ashx))
- - [ ] Rust-Oleum Stops Rust Enamel Gloss White Spray
- - [ ] Respirator
- - [ ] Plastic sheet to protect cockpit
-
-### Weather Conditions
-
-Apply paint & primer when temperature is between 50-90°F and humidity is below 85%.
-
-### Procedure
-
-Primer and paint require that temperature be between 50-90°F and humidity be below 65%.
-
- - [ ] Empty the interior
- - [ ] Wash floor with a detergent
- - [ ] Rinse floor with fresh water
- - [ ] Dry floor
- - [ ] Tape over fixtures
- - [ ] Apply coat of primer
- - [ ] Allow to dry for 24 hours
- - [ ] Apply one coat of paint
- - [ ] Allow to dry for 24 hours

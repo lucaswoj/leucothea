@@ -6,7 +6,16 @@ endDate:
 duration:
 ---
 
-## Prior Art
+## Requirements
+
+ - Keep van warm in cool weather
+ - Keep van cool in warm weather
+ - Dampen sound
+ - Provide privacy for people & things inside van
+
+---
+
+## Appendix A: Prior Art
 
 ### [The Vanual](http://thevanual.com)
 
@@ -57,15 +66,8 @@ duration:
 
 <!-- TODO -->
 
-## Open Questions
+## Appendix B: Open Questions
 
 ### Should I buy curtains or make them myself?
 ### Should I insulate the curtains or not?
 ### Should I put a curtain in front of the cockpit or on all the windows?
-
-## Requirements
-
- - Keep van warm in cool weather
- - Keep van cool in warm weather
- - Dampen sound
- - Provide privacy for people & things inside van

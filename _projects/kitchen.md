@@ -6,7 +6,7 @@ endDate:
 duration: 3
 ---
 
-## Open Questions
+## Appendix A: Open Questions
 
  - [ ] What fixtures do I want in the kitchen?
     - propane refrigerator
@@ -23,7 +23,7 @@ duration: 3
    - put some magnets in the cubes & wood
    - tilt the shelves slightly backwards
 
-## Requirements
+## Appendix B: Requirements
 
  - Low enough that a window could someday be installed above
  - (nice to have) Counter is flush with bed

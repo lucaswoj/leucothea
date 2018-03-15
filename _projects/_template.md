@@ -6,7 +6,15 @@ endDate:
 duration:
 ---
 
-## Prior Art
+## Requirements
+
+## Specifications & Procedure
+### Tools & Materials
+### Procedure
+
+---
+
+## Appendix A: Prior Art
 ### [The Vanual](http://thevanual.com)
 ### [Gnomad Home](https://gnomadhome.com)
 ### [FarOutRide](http://faroutride.com)
@@ -18,10 +26,4 @@ duration:
 ### [Ford Transit USA Forum](http://www.fordtransitusaforum.com)
 <!-- Do a general Google Search -->
 
-## Open Questions
-
-## Requirements
-
-## Specifications & Procedure
-### Tools & Materials
-### Procedure
+## Appendix B: Open Questions
