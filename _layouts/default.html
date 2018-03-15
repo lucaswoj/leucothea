@@ -17,6 +17,12 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
 
+          {% for _page in site.pages %}
+            <li class="nav-item {% if _page.url == page.url %} active {% endif %}">
+              <a class="nav-link" href="{{_page.url}}">{{_page.title}}</a>
+            </li>
+          {% endfor %}
+
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Projects

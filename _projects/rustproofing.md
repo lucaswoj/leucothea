@@ -3,7 +3,7 @@ title: Rustproofing
 dependencies:
 startDate:
 endDate:
-duration: 1
+duration: 2
 ---
 
 ## Prior Art
@@ -60,11 +60,30 @@ https://www.reddit.com/r/vandwellers/comments/6ge24c/interior_painting_tips_shou
 
 ## Open Questions
 
-### Should I use spray-on or paint-on rustproofing?
-### Should I use primer + enamel or a standalone rust inhibitor?
-### Should I paint all surfaces or just the floor?
+## Should I use an auto paint repair kit instead?
+
+Maybe. I'll ask at the hardware store.
+
 ### Where can I put it while it dries?
+
+A trailhead or hardware store parking lot.
+
 ### How long will it take to dry?
+
+Let's say 2-3 hours until I can lock up the van.
+
+### Should I use spray-on or paint-on rustproofing?
+
+Paint-on is preferable but I'll take whatever's in stock.
+
+### Should I use primer + enamel or a standalone rust inhibitor?
+
+Standalone rust inhibitor only works on bare metal. I need primer + enamel.
+
+### Should I paint all surfaces or just the floor?
+
+Just the floor & any noticeable scuffs.
+
 ### Do I need to rustproof the inside at all?
 Not really...
 
@@ -84,29 +103,37 @@ No, requires unpainted surface.
 
 ### Tools & Materials
 
- - [ ] Rust-Oleum Stop Rust Clean Metal Primer Spray ([technical data](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-10_Stops_Rust_Primer_Sprays_TDS.ashx))
- - [ ] Rust-Oleum Stops Rust Enamel Spray
+ - [ ] Detergent
  - [ ] Painter's tape
- - [ ] Plastic sheets to seal off cockpit & rear windows
- - [ ] 2 * Coveralls ~$10
- - [ ] 2 * Respirators ~$20
+ - [ ] Scrubbing brush
+
+#### If I go with regular paint...
+
+- [ ] Rust-Oleum Stops Rust Clean Metal Primer ($8, [product page](https://www.rustoleum.com/product-catalog/consumer-brands/stops-rust/clean-metal-primer/), [technical data sheet](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-11_Stops_Rust_Primer_Brush_TDS.ashx))
+- [ ] Rust-Oleum Stops Rust Protective Enamel Gloss White ($8, [product page](https://www.rustoleum.com/product-catalog/consumer-brands/stops-rust/protective-enamel), [technical data](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-02_Stops_Rust_Enamel_Brush_TDS.ashx))
+ - [ ] Paint roller + tray OR paint brush
+
+#### If I go with spray paint...
+
+ - [ ] Rust-Oleum Stop Rust Clean Metal Primer Spray ([technical data](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-10_Stops_Rust_Primer_Sprays_TDS.ashx))
+ - [ ] Rust-Oleum Stops Rust Enamel Gloss White Spray
+ - [ ] Respirator
+ - [ ] Plastic sheet to protect cockpit
 
 ### Weather Conditions
 
-For the spray on version:
-
-> [Use when temperature is between 50-90°F (10-
-32°C) and humidity is below 65% to ensure proper drying.](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-10_Stops_Rust_Primer_Sprays_TDS.ashx)
-
-For the paint on version:
-
-> [Apply only when air and surface temperatures are
-between 50-90°F (10-32°C) and humidity is below 85% to
-ensure proper drying.](https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Stops%20Rust/SRT-11_Stops_Rust_Primer_Brush_TDS.ashx)
+Apply paint & primer when temperature is between 50-90°F and humidity is below 85%.
 
 ### Procedure
 
+Primer and paint require that temperature be between 50-90°F and humidity be below 65%.
+
  - [ ] Empty the interior
- - [ ] Clean the interior
- - [ ] Tape over windows & fixtures that shouldn't get painted
- - [ ] Leave the van to dry somewhere for several hours with all doors open
+ - [ ] Wash floor with a detergent
+ - [ ] Rinse floor with fresh water
+ - [ ] Dry floor
+ - [ ] Tape over fixtures
+ - [ ] Apply coat of primer
+ - [ ] Allow to dry for 24 hours
+ - [ ] Apply one coat of paint
+ - [ ] Allow to dry for 24 hours
