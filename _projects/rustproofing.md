@@ -60,7 +60,7 @@ https://www.reddit.com/r/vandwellers/comments/6ge24c/interior_painting_tips_shou
 
 ## Open Questions
 
-## Should I use an auto paint repair kit instead?
+### Should I use an auto paint repair kit instead?
 
 Maybe. I'll ask at the hardware store.
 
