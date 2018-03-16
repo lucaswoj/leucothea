@@ -6,7 +6,7 @@ endDate:
 duration: 3
 ---
 
-See also the [rigid foam insulation project page]({ link _projects/rigid-foam-insulation.md }).
+See also the [rigid foam insulation project page]({% link _projects/rigid-foam-insulation.md %}).
 
 ## Requirements
 
