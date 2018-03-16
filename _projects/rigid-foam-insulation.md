@@ -31,7 +31,7 @@ See also the [soft insulation project page]({% link _projects/soft-insulation.md
  - [ ] garbage bag
  - [ ] scissors (for cutting templates)
  - [ ] rose paper or cardboard (for making rigid foam panel templates)
- - [ ] 104' velcro tape
+ - [ ] 150' velcro tape
  - [ ] 5 * 4' x 8' x 1" polyiso boards
  - [ ] 2 * 4' x 8' x 0.5" XPS board
 
