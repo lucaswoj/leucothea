@@ -19,7 +19,7 @@
         <ul class="navbar-nav">
 
           {% for _page in site.pages %}
-            {% if page.title %}
+            {% if _page.title %}
               <li class="nav-item {% if _page.url == page.url %} active {% endif %}">
                 <a class="nav-link" href="{{_page.url | relative_url}}">{{_page.title}}</a>
               </li>

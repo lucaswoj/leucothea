@@ -6,6 +6,8 @@ endDate:
 duration: 3
 ---
 
+See also the [soft insulation project page]({ link _projects/soft-insulation.md }).
+
 ## Requirements
 
  - Thin enough to allow me to stand
