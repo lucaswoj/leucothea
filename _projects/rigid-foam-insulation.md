@@ -48,7 +48,7 @@ duration: 3
 
 total velcro: 104'
 
-### Vertical Stack
+### Vertical Thickness
 
 | structure | thickness | cumulative thickness |
 |-|-|-|
@@ -60,7 +60,7 @@ total velcro: 104'
 | insulation | 1" | 2.25" |
 | metal ceiling | - | - |
 
-### Horizontal Stack
+### Horizontal Thickness
 
 | structure | thickness | cumulative thickness |
 |-|-|-|
