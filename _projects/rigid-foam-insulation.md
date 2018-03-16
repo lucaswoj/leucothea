@@ -52,7 +52,7 @@ duration: 3
 | structure | thickness | cumulative thickness |
 |-|-|-|
 | metal floor | - | - |
-| insulation | 0.5" | - |
+| insulation | 0.5" | 0.5" |
 | subflooring | 0.25" | 0.75" |
 | decorative flooring | 0.25" | 1" |
 | decorative ceiling | 0.25" | 1.25" |
