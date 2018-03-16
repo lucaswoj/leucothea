@@ -6,6 +6,8 @@ endDate:
 duration: 3
 ---
 
+See also the [rigid foam insulation project page]({ link _projects/rigid-foam-insulation.md }).
+
 ## Requirements
 
  - Dampen sound
@@ -21,7 +23,7 @@ duration: 3
 
 ### Tools & Materials
 
- - [ ] 35'^3 thinsulate or sheepswool (to insulate nooks and crannies, see [Soft Insulation Manifest](#soft-insulation-manifest))
+ - [ ] 35'^3 thinsulate or sheepswool
  - [ ] [something to hold in soft insulation]
 
 ### Soft Insulation Manifest
