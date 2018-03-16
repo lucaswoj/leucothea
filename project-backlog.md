@@ -21,5 +21,6 @@ title: Project Backlog
  - furnace
  - below upper cabinet lighting
  - garage lighting
- - garage floor + walls
+ - garage rubber floor + rubber walls
  - safe
+ - soundproofing

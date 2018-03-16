@@ -1,10 +1,10 @@
 ---
-title: Flooring
+title: Garage Flooring
 dependencies:
  - bed
  - kitchen
  - upper-cabinets
 startDate:
 endDate:
-duration: 3
+duration: 1
 ---

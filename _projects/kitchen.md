@@ -17,16 +17,22 @@ duration: 3
 
 ## Appendix: Open Questions
 
- - [ ] What fixtures do I want in the kitchen?
-    - propane refrigerator
-    - cooler
-    - sink
-    - stove
-    - oven
- - [ ] What material should I use for the countertop?
- - [ ] What material should I use for the cabinets?
- - [ ] How much of the cabinet space should be cubes vs fixtures?
- - [ ] How will we keep the cubes in place?
+### What fixtures do I want in the kitchen?
+
+ - propane refrigerator
+ - cooler
+ - sink
+ - stove
+ - oven
+
+### What material should I use for the countertop?
+
+### What material should I use for the cabinets?
+
+### How much of the cabinet space should be cubes vs fixtures?
+
+### How will we keep the cubes in place?
+
   - put a lip on the shelf
    - run some stretchy cord across the front of the shelves
    - put some magnets in the cubes & wood

@@ -17,14 +17,16 @@ See also the [rigid foam insulation project page]({ link _projects/rigid-foam-in
  - Not absorb water
  - Not cause rusting on van body
  - Not attract insects
-- Easily removable
+ - Easily removable
 
 ## Specifications & Procedure
 
 ### Tools & Materials
 
- - [ ] 35'^3 thinsulate or sheepswool
- - [ ] [something to hold in soft insulation]
+ - [ ] 35'^3 soft insulation
+ - [ ] rubber mats
+ - [ ] velcro tape
+ - [ ] wide painter's tape
 
 ### Soft Insulation Manifest
 
@@ -40,3 +42,19 @@ See also the [rigid foam insulation project page]({ link _projects/rigid-foam-in
 | 8 | ceiling ribs | negligible | 0 |
 
 total: 33.5'^3
+
+---
+
+## Appendix: Open Questions
+
+### Should I use sheepswool, thinsulate, or something else?
+
+### How should I hold in the soft insulation?
+
+use painters tape on small holes
+velcro rubber mats will serve to hold in big areas below windows
+
+## Appendix: Distributors
+
+ - [Oregon Shepherd](http://oregonshepherd.com/products/) sells sheepswool
+ - Impact Products ([amazon](https://www.amazon.com/Thinsulate-Acoustic-Thermal-Insulation-SM600L/dp/B074XLDV58), [ebay](https://www.ebay.com/itm/3M-Thinsulate-TM-SM600L-Acoustic-Thermal-Automotive-Insulation-for-van-and-car-/131754566187)) sells thinsulate
