@@ -11,7 +11,7 @@ duration: 3
 ## Requirements
 
  - Low enough to sit up in
- - Flush with [kitchen]({% link _projects/kitchen.md %}) counter
+ - Flush with [kitchen]({{site.baseurl}}/{% link _projects/kitchen.md %}) counter
 
 ---
 

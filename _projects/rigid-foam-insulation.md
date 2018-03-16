@@ -6,7 +6,7 @@ endDate:
 duration: 3
 ---
 
-See also the [soft insulation project page]({% link _projects/soft-insulation.md %}).
+See also the [soft insulation project page]({{site.baseurl}}/{% link _projects/soft-insulation.md %}).
 
 ## Requirements
 
@@ -31,23 +31,26 @@ See also the [soft insulation project page]({% link _projects/soft-insulation.md
  - [ ] garbage bag
  - [ ] scissors (for cutting templates)
  - [ ] rose paper or cardboard (for making rigid foam panel templates)
- - [ ] 150' velcro tape
- - [ ] 5 * 4' x 8' x 1" polyiso boards
- - [ ] 2 * 4' x 8' x 0.5" XPS board
+ - [ ] 2 * [15 ft. x 2 in Industrial Strength VELCRO Tape tape](https://www.velcro.com/products/industrial-strength/900400__industrial-strength?shape=roll&size=15ft-x-2in&color=white)
+ - [ ] 5 * [Rmax Thermasheath-3 1 in. x 4 ft. x 8 ft. R-6 Polyisocyanurate Rigid Foam Insulation Board](https://www.homedepot.com/p/Thermasheath-Rmax-Thermasheath-3-1-in-x-4-ft-x-8-ft-R-6-Polyisocyanurate-Rigid-Foam-Insulation-Board-787264/100549260)
+ - [ ] 2 * [FOAMULAR 1/2 in. x 4 ft. x 8 ft. R-3 Squared Edge Insulating Sheathing](https://www.homedepot.com/p/Owens-Corning-FOAMULAR-1-2-in-x-4-ft-x-8-ft-R-3-Squared-Edge-Insulating-Sheathing-36L/100320356)
 
 ### Panel Manifest
 
-| | location | material | thickness | dimensions | velcro length |
+| | location | material | thickness | dimensions | min length of velcro |
 |-|-|-|-|-|
-| 1 | Aft starboard window | polyiso | 1" | 4' x 4' | 3 * 4' |
-| 2 | Fore starboard window | polyiso | 1" | 4' x 4' | 4 * 4' |
-| 3 | Aft port window | polyiso | 1" | 4' x 4' | 3 * 4' |
-| 4 | Fore port window | polyiso | 1" | 4' x 4' | 4 * 4' |
-| 5 | Aft ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
-| 6 | Middle ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
-| 7 | Fore ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
-| 8 | Wheel wells | XPS | 0.5" | use scraps | 20' |
-| 9 | Floor | XPS | 0.5" | 11' x 6'| 0 |
+| 1 | Aft starboard window | polyiso | 1" | 4' x 4' | 7 in^2 |
+| 2 | Fore starboard window | polyiso | 1" | 4' x 4' | 7 in^2 |
+| 3 | Aft port window | polyiso | 1" | 4' x 4' | 7 in^2 |
+| 4 | Fore port window | polyiso | 1" | 4' x 4' | 7 in^2 |
+| 5 | Aft ceiling | polyiso | 1" | 4' x 6' | 11 in^2 |
+| 6 | Middle ceiling | polyiso | 1" | 4' x 6' | 11 in^2 |
+| 7 | Fore ceiling | polyiso | 1" | 4' x 6' | 11 in^2 |
+| 8 | Wheel wells | XPS | 0.5" | use scraps | ? |
+| 9 | Floor | XPS | 0.5" | 11' x 6'| - |
+
+**min area of velcro** = 61 in^2
+**area per box** = 15' * 2" = 360 in^2
 
 ### Vertical Thickness
 
@@ -59,6 +62,7 @@ See also the [soft insulation project page]({% link _projects/soft-insulation.md
 | decorative flooring | 0.25" | 1" |
 | decorative ceiling | 0.25" | 1.25" |
 | insulation | 1" | 2.25" |
+| velcro | 0.25" | 2.5" |
 | metal ceiling | - | - |
 
 ### Horizontal Thickness
@@ -66,15 +70,21 @@ See also the [soft insulation project page]({% link _projects/soft-insulation.md
 | structure | thickness | cumulative thickness |
 |-|-|-|
 | metal wall | - | - |
-| insulation | 1" | 1" |
-| decorative wall | 0.25" | 1.25" |
+| velcro | 0.25" | 0.25" |
+| insulation | 1" | 1.25" |
 | decorative wall | 0.25" | 1.5" |
-| insulation | 1" | 2.5" |
+| decorative wall | 0.25" | 1.75" |
+| insulation | 1" | 2.75" |
+| velcro | 0.25" | 3" |
 | metal wall | - | - |
 
 ---
 
 ## Appendix: Open Questions
+
+### How much velcro do I need?
+
+1 in^2 holds 1/2lb ->
 
 ### How should I insulate the wheel wells?
 
