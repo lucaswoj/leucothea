@@ -30,16 +30,10 @@ duration: 3
  - [ ] scissors (for cutting templates)
  - [ ] rose paper or cardboard (for making rigid foam panel templates)
  - [ ] 104' velcro tape
- - [ ] Polyiso boards (see [Rigid Foam Panel Manifest](#rigid-foam-panel-insulation-manifest))
- - [ ] XPS board (see [Rigid Foam Panel Manifest](#rigid-foam-panel-insulation-manifest)
+ - [ ] Polyiso boards (see [Panel Manifest](#panel-manifest))
+ - [ ] XPS board (see [Panel Manifest](#panel-manifest)
 
-### Procedure
-
- 1. Create rose paper templates of all insulation panels
- 2. Cut out rigid foam panels
- 3. Apply rigid foam panels with velcro
-
-### Rigid Foam Panel Insulation Manifest
+### Panel Manifest
 
 | | location | material | thickness | dimensions | velcro length |
 |-|-|-|-|-|
