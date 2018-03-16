@@ -24,13 +24,13 @@ duration: 3
 ### Tools & Materials
 
  - [ ] sharpie
- - [ ] yardstick / straight edge
+ - [ ] yardstick
  - [x] utility knife
  - [ ] garbage bag
  - [ ] scissors (for cutting templates)
  - [ ] rose paper or cardboard (for making rigid foam panel templates)
  - [ ] 104' velcro tape
- - [ ] Polyiso boards (see [Panel Manifest](#panel-manifest))
+ - [ ] 7 * polyiso boards (see [Panel Manifest](#panel-manifest))
  - [ ] XPS board (see [Panel Manifest](#panel-manifest))
 
 ### Panel Manifest
@@ -117,7 +117,7 @@ Attach with magnets or 3M™ Hi-Strength 90 Spray Adhesive or ??
 
 Sheepswool OR foam OR thinsulate OR polyfill OR polyester fill
 
-## Appendix D: Prior Art
+## Appendix: Prior Art
 
 ### [The Vanual](http://thevanual.com)
 
