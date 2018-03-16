@@ -8,7 +8,14 @@ endDate:
 duration: 3
 ---
 
-## Appendix A: Open Questions
+## Requirements
+
+ - Low enough that a window could someday be installed above
+ - (nice to have) Counter is flush with bed
+
+---
+
+## Appendix: Open Questions
 
  - [ ] What fixtures do I want in the kitchen?
     - propane refrigerator
@@ -24,8 +31,3 @@ duration: 3
    - run some stretchy cord across the front of the shelves
    - put some magnets in the cubes & wood
    - tilt the shelves slightly backwards
-
-## Appendix B: Requirements
-
- - Low enough that a window could someday be installed above
- - (nice to have) Counter is flush with bed

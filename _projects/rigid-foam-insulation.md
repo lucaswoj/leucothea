@@ -37,29 +37,43 @@ duration: 3
 
 | | location | material | thickness | dimensions | velcro length |
 |-|-|-|-|-|
-| 1 | Aft starboard window | polyiso | 0.5" | 4' x 4' | 3 * 4' |
-| 2 | Fore starboard window | polyiso | 0.5" | 4' x 4' | 4 * 4' |
-| 3 | Aft port window | polyiso | 0.5" | 4' x 4' | 3 * 4' |
-| 4 | Fore port window | polyiso | 0.5" | 4' x 4' | 4 * 4' |
-| 5 | Floor | XPS | .25" | 11' x 6'| 0 |
-| 6 | Between rib aft ceiling | polyiso | 0.5" | 4' x 6' | 4 * 4' |
-| 7 | Between rib middle ceiling | polyiso | 0.5" | 4' x 6' | 4 * 4' |
-| 8 | Between rib fore ceiling | polyiso | 0.5" | 4' x 6' | 4 * 4' |
-| 9 | Over rib ceiling | polyiso | 0.5" | 11' x 6' | 0 |
+| 1 | Aft starboard window | polyiso | 1" | 4' x 4' | 3 * 4' |
+| 2 | Fore starboard window | polyiso | 1" | 4' x 4' | 4 * 4' |
+| 3 | Aft port window | polyiso | 1" | 4' x 4' | 3 * 4' |
+| 4 | Fore port window | polyiso | 1" | 4' x 4' | 4 * 4' |
+| 5 | Aft ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
+| 6 | Middle ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
+| 7 | Fore ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
+| 9 | Floor | XPS | 0.5" | 11' x 6'| 0 |
 
 total velcro: 104'
 
+### Vertical Stack
+
+| structure | thickness | cumulative thickness |
+|-|-|-|
+| metal floor | - | - |
+| insulation | 0.5" | - |
+| subflooring | 0.25" | 0.75" |
+| decorative flooring | 0.25" | 1" |
+| decorative ceiling | 0.25" | 1.25" |
+| insulation | 1" | 2.25" |
+| metal ceiling | - | - |
+
+### Horizontal Stack
+
+| structure | thickness | cumulative thickness |
+|-|-|-|
+| metal wall | - | - |
+| insulation | 1" | 1" |
+| decorative wall | 0.25" | 1.25" |
+| decorative wall | 0.25" | 1.5" |
+| insulation | 1" | 2.5" |
+| metal wall | - | - |
+
 ---
 
-## Appendix A: Vertical Stack
-
-{% include vertical-stack.md %}
-
-## Appendix B: Horizantal Stack
-
-{% include horizantal-stack.md %}
-
-## Appendix C: Open Questions
+## Appendix: Open Questions
 
 ### Should I apply some kind of undercoating?
 ### Should I use a separate sound deadening material?

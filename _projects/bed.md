@@ -15,6 +15,6 @@ duration: 3
 
 ---
 
-## Appendix B: Open Questions
+## Appendix: Open Questions
 
 ### How will I secure things stored underneath bed?

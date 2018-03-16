@@ -15,7 +15,13 @@ duration:
 
 ---
 
-## Appendix A: Prior Art
+## Appendix: Open Questions
+
+### Should I buy curtains or make them myself?
+### Should I insulate the curtains or not?
+### Should I put a curtain in front of the cockpit or on all the windows?
+
+## Appendix: Prior Art
 
 ### [The Vanual](http://thevanual.com)
 
@@ -65,9 +71,3 @@ duration:
 ### General Google Search
 
 <!-- TODO -->
-
-## Appendix B: Open Questions
-
-### Should I buy curtains or make them myself?
-### Should I insulate the curtains or not?
-### Should I put a curtain in front of the cockpit or on all the windows?

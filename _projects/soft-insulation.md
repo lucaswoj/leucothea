@@ -35,15 +35,6 @@ duration: 3
 | 5 | above port windows | 11' x 0.5' x 0.5' | 2.75'^3 |
 | 6 | between port windows | 3' x 0.5' x 0.5' | 0.75'^3 |
 | 7 | below port windows | 11' x 2' x 0.5' | 11'^3 |
+| 8 | ceiling ribs | negligible | 0 |
 
 total: 33.5'^3
-
----
-
-## Appendix A: Vertical Stack
-
-{% include vertical-stack.md %}
-
-## Appendix B: Horizantal Stack
-
-{% include horizantal-stack.md %}

@@ -37,7 +37,42 @@ is fully dry after 24 hours.
 
 ---
 
-## Appendix A: Prior Art
+## Appendix: Open Questions
+
+### Should I use an auto paint repair kit instead?
+
+Maybe. I'll ask at the hardware store.
+
+### Where can I put it while it dries?
+
+A trailhead or hardware store parking lot.
+
+### How long will it take to dry?
+
+Let's say 2-3 hours until I can lock up the van.
+
+### Should I use spray-on or paint-on rustproofing?
+
+Paint-on is preferable but I'll take whatever's in stock.
+
+### Should I use primer + enamel or a standalone rust inhibitor?
+
+Standalone rust inhibitor only works on bare metal. I need primer + enamel.
+
+### Should I paint all surfaces or just the floor?
+
+Just the floor & any noticeable scuffs.
+
+### Do I need to rustproof the inside at all?
+Not really...
+
+### What brand of rustproofing should I use?
+Rust-oleum is the most popular, most trusted, and easy to find in stores.
+
+### Should I use a zinc metal primer?
+No, requires unpainted surface.
+
+## Appendix: Prior Art
 
 ### [The Vanual](http://thevanual.com)
 
@@ -88,38 +123,3 @@ https://www.reddit.com/r/vandwellers/comments/52kqsy/question_best_way_to_rustpr
 Suggests Rust-Oleum Stop Rust Clean Metal Primer plus Rust-Oleum Stops Rust Enamel.
 
 https://www.reddit.com/r/vandwellers/comments/6ge24c/interior_painting_tips_should_i_start_with_anti/
-
-## Appendix B: Open Questions
-
-### Should I use an auto paint repair kit instead?
-
-Maybe. I'll ask at the hardware store.
-
-### Where can I put it while it dries?
-
-A trailhead or hardware store parking lot.
-
-### How long will it take to dry?
-
-Let's say 2-3 hours until I can lock up the van.
-
-### Should I use spray-on or paint-on rustproofing?
-
-Paint-on is preferable but I'll take whatever's in stock.
-
-### Should I use primer + enamel or a standalone rust inhibitor?
-
-Standalone rust inhibitor only works on bare metal. I need primer + enamel.
-
-### Should I paint all surfaces or just the floor?
-
-Just the floor & any noticeable scuffs.
-
-### Do I need to rustproof the inside at all?
-Not really...
-
-### What brand of rustproofing should I use?
-Rust-oleum is the most popular, most trusted, and easy to find in stores.
-
-### Should I use a zinc metal primer?
-No, requires unpainted surface.
