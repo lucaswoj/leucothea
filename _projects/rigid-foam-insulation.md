@@ -30,8 +30,8 @@ duration: 3
  - [ ] scissors (for cutting templates)
  - [ ] rose paper or cardboard (for making rigid foam panel templates)
  - [ ] 104' velcro tape
- - [ ] 7 * polyiso boards (see [Panel Manifest](#panel-manifest))
- - [ ] XPS board (see [Panel Manifest](#panel-manifest))
+ - [ ] 5 * 4' x 8' x 1" polyiso boards
+ - [ ] 2 * 4' x 8' x 0.5" XPS board
 
 ### Panel Manifest
 
@@ -44,9 +44,8 @@ duration: 3
 | 5 | Aft ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
 | 6 | Middle ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
 | 7 | Fore ceiling | polyiso | 1" | 4' x 6' | 4 * 4' |
+| 8 | Wheel wells | XPS | 0.5" | use scraps | 20' |
 | 9 | Floor | XPS | 0.5" | 11' x 6'| 0 |
-
-total velcro: 104'
 
 ### Vertical Thickness
 
@@ -75,9 +74,18 @@ total velcro: 104'
 
 ## Appendix: Open Questions
 
-### Should I apply some kind of undercoating?
-### Should I use a separate sound deadening material?
 ### How should I insulate the wheel wells?
+
+Use leftover polyiso to build enclosures
+
+### Should I apply some kind of undercoating?
+
+Nah. Factory rustproofing should be fine. I'll check behind the panels now and again.
+
+### Should I use a separate sound deadening material?
+
+Maybe eventually. We can figure this out later.
+
 ### What kind of adhesive should I use?
 
 Do not use spray foam.

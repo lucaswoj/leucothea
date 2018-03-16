@@ -1,0 +1,25 @@
+---
+title: Project Backlog
+---
+
+ - external rustproofing
+ - galley backspash
+ - bed walls
+ - decorative ceiling
+ - ceiling lighting
+ - cabin battery
+ - stove + oven
+ - water tank
+ - sink
+ - refrigerator
+ - upgraded speakers
+ - solar panels
+ - power outlets
+ - ceiling fan
+ - floor fan
+ - propane tank
+ - furnace
+ - below upper cabinet lighting
+ - garage lighting
+ - garage floor + walls
+ - safe
