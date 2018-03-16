@@ -38,15 +38,14 @@ table {
 
 details {
   summary {
-    overflow: hidden;
-    margin-left: -17px;
+    margin-bottom: 1rem;
 
     &:focus {
       outline: none;
     }
 
-    h2 {
-      display: inline-block;
+    h2, h3, h4, h5, h6 {
+      display: inline;
       margin-bottom: 0;
     }
   }
