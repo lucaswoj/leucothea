@@ -31,7 +31,7 @@ duration: 3
  - [ ] rose paper or cardboard (for making rigid foam panel templates)
  - [ ] 104' velcro tape
  - [ ] Polyiso boards (see [Panel Manifest](#panel-manifest))
- - [ ] XPS board (see [Panel Manifest](#panel-manifest)
+ - [ ] XPS board (see [Panel Manifest](#panel-manifest))
 
 ### Panel Manifest
 
