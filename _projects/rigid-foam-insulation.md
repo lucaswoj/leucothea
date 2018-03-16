@@ -1,9 +1,9 @@
 ---
-title: Insulation
+title: Rigid Foam Insulation
 dependencies: rustproofing
 startDate:
 endDate:
-duration: 5
+duration: 3
 ---
 
 ## Requirements
@@ -13,29 +13,103 @@ duration: 5
  - Dampen sound
  - Keep van warm in cool weather
  - Keep van cool in warm weather
+ - Nontoxic
+ - Not absorb water
+ - Not cause rusting on van body
+ - Not attract insects
+ - Easily removable
 
 ## Specifications & Procedure
 
 ### Tools & Materials
 
- - [ ] 2 * utility knife
+ - [ ] sharpie
+ - [ ] yardstick / straight edge
+ - [x] utility knife
  - [ ] garbage bag
+ - [ ] scissors (for cutting templates)
+ - [ ] rose paper or cardboard (for making rigid foam panel templates)
+ - [ ] 104' velcro tape
+ - [ ] Polyiso boards (see [Rigid Foam Panel Manifest](#rigid-foam-panel-insulation-manifest))
+ - [ ] XPS board (see [Rigid Foam Panel Manifest](#rigid-foam-panel-insulation-manifest)
 
-#### Floor Template
+### Procedure
 
- - [ ] rose paper
- - [ ] several sharpies
- - [ ] scissors
+ 1. Create rose paper templates of all insulation panels
+ 2. Cut out rigid foam panels
+ 3. Apply rigid foam panels with velcro
 
-### Floor Insulation
+### Rigid Foam Panel Insulation Manifest
 
-### Wall & Ceiling Insulation
+| | location | material | thickness | dimensions | velcro length |
+|-|-|-|-|-|
+| 1 | Aft starboard window | polyiso | 0.5" | 4' x 4' | 3 * 4' |
+| 2 | Fore starboard window | polyiso | 0.5" | 4' x 4' | 4 * 4' |
+| 3 | Aft port window | polyiso | 0.5" | 4' x 4' | 3 * 4' |
+| 4 | Fore port window | polyiso | 0.5" | 4' x 4' | 4 * 4' |
+| 5 | Floor | XPS | .25" | 11' x 6'| 0 |
+| 6 | Between rib aft ceiling | polyiso | 0.5" | 4' x 6' | 4 * 4' |
+| 7 | Between rib middle ceiling | polyiso | 0.5" | 4' x 6' | 4 * 4' |
+| 8 | Between rib fore ceiling | polyiso | 0.5" | 4' x 6' | 4 * 4' |
+| 9 | Over rib ceiling | polyiso | 0.5" | 11' x 6' | 0 |
 
-### Nooks & Crannies Insulation
+total velcro: 104'
 
 ---
 
-## Appendix A: Prior Art
+## Appendix A: Vertical Stack
+
+{% include vertical-stack.md %}
+
+## Appendix B: Horizantal Stack
+
+{% include horizantal-stack.md %}
+
+## Appendix C: Open Questions
+
+### Should I apply some kind of undercoating?
+### Should I use a separate sound deadening material?
+### How should I insulate the wheel wells?
+### What kind of adhesive should I use?
+
+Do not use spray foam.
+
+Ideally it'd seal out water in large irregular spaces
+
+VELCRO!
+
+### How should I hold in the soft insulation?
+
+Use plastic sheet for now but let it sit directly beneath wall panels later.
+
+### Should I insulate the floor at all?
+
+Yes
+
+### Should I use spray foam or sheepswool in the nooks and crannies?
+
+Do not use spray foam.
+
+### Should I use XPS instead of Polyiso because of the time I'll spend in cold temperatures?
+
+Doesn't really matter.
+
+### What kind of insulation & adhesion should I use for the...
+
+#### floor ?
+
+1/4" XPS
+
+#### ceiling & walls?
+
+Polyiso
+Attach with magnets or 3M™ Hi-Strength 90 Spray Adhesive or ??
+
+#### nooks and crannies?
+
+Sheepswool OR foam OR thinsulate OR polyfill OR polyester fill
+
+## Appendix D: Prior Art
 
 ### [The Vanual](http://thevanual.com)
 
@@ -122,66 +196,11 @@ Point to aerogel seller: http://www.buyaerogel.com/product/spaceloft-10-mm-cut-t
 Suggest foam offgassing is pretty toxic
 Suggest checking online for insulation scraps left over from bigger project
 
-## Appendix B: Open Questions
+### Sprinter RV Conversion Book
 
-### Should I use a separate sound deadening material?
+Recommends a base layer of acoustic sound deadening material or [rubber undercoat](
+https://www.amazon.com/3M-Rubberized-Undercoating-08883-19-7/dp/B00MK91J1I/ref=as_at?imprToken=fbx6fj0cwVNAOhGFVb2gLA&slotNum=7&SubscriptionId=0ENGV10E9K9QDNSJ5C82&tag=kayal-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00MK91J1I) to prevent rust
 
-### Should I insulate the floor at all?
+Suggests Polyester batts are a good insulating material (two major brands discontinued, some intended for quilting available on Amazon: [Polyester Batting](https://www.amazon.com/Polyester-Batting-Medium-Yard-Double-Rolled/dp/B002762F0S/ref=sr_1_4?ie=UTF8&qid=1521151023&sr=8-4&keywords=polyester+insulation&dpID=31LGun9QYjL&preST=_SY300_QL70_&dpSrc=srch), [Dream Puff](https://www.amazon.com/Quilters-Dream-Batting-122in-120in/dp/B00NB7NIPI/ref=sr_1_7?ie=UTF8&qid=1521151023&sr=8-7&keywords=polyester+insulation&dpID=41AVZxCaTSL&preST=_SY300_QL70_&dpSrc=srch), [Polyfill](https://www.amazon.com/Fairfield-PF12A-Poly-Fil-Polyester-12-Ounce/dp/B000YZ7G44)
 
-### What kind of adhesive should I use? Spray foam or 3M High Strength 90?
-
-Spray foam is the only way to ensure no water gets in.  
-
-### Should I use spray foam or sheepswool in the nooks and crannies?
-
-?
-
-### Should I use XPS instead of Polyiso because of the time I'll spend in cold temperatures?
-
-Doesn't really matter.
-
-### What kind of insulation & adhesion should I use for the...
-
-#### floor ?
-
-thinnest XPS
-
-#### ceiling & walls?
-
-Polyiso or XPS
-
-#### nooks and crannies?
-
-Sheepswool OR foam OR thinsulate
-
-## Appendix C: Size Budgets
-
-### Height Budget
-
-Numbers mostly from [Gnomad Home](https://gnomadhome.com/build-your-van/)
-
-| structure | height off floor | thickness |
-|-|-|-|
-| metal floor | 0" | - |
-| Nico soundproofing | 0" | 0.08" |
-| XPS foam insulation | 0.08" | 0.5" |
-| plywood subflooring | 0.58" | 0.25" |
-| decorative flooring | 0.83" | 0.25 |
-| living space | 1.08" | 5'8" = 68" |
-| decorative ceiling | 69.08" | 0.25" |
-| insulation | 69.33" | 0.5" |
-| metal ceiling | 69.73" | - |
-
-### Width Budget
-
-| structure | distance from wall | thickness |
-|-|-|-|
-| metal wall | 0" | - |
-| soundproofing | ? | ? |
-| insulation | ? | ? |
-| decorative wall |
-| living space | ? | 5'8" = 68" |
-| decorative wall |
-| insulation | ? | ? |
-| soundproofing | ? | ? |
-| metal wall | ? | - |
+Suggests cotton batts can work if there's a layer between the metal and the insulation.

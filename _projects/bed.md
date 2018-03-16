@@ -1,6 +1,8 @@
 ---
 title: Bed
-dependencies: insulation
+dependencies:
+ - rigid-foam-insulation
+ - soft-insulation
 startDate: March 23, 2018
 endDate:
 duration: 3
