@@ -25,14 +25,14 @@ See also the [soft insulation project page]({{site.baseurl}}/{% link _projects/s
 
 ### Tools & Materials
 
- - [ ] sharpie
- - [ ] yardstick
+ - [x] sharpie
+ - [x] yardstick
  - [x] utility knife
- - [ ] garbage bag
- - [ ] scissors (for cutting templates)
- - [ ] rose paper or cardboard (for making rigid foam panel templates)
- - [ ] 2 * [15 ft. x 2 in Industrial Strength VELCRO Tape tape](https://www.velcro.com/products/industrial-strength/900400__industrial-strength?shape=roll&size=15ft-x-2in&color=white)
- - [ ] 5 * [Rmax Thermasheath-3 1 in. x 4 ft. x 8 ft. R-6 Polyisocyanurate Rigid Foam Insulation Board](https://www.homedepot.com/p/Thermasheath-Rmax-Thermasheath-3-1-in-x-4-ft-x-8-ft-R-6-Polyisocyanurate-Rigid-Foam-Insulation-Board-787264/100549260)
+ - [x] garbage bag
+ - [x] scissors (for cutting templates)
+ - [x] rose paper or cardboard (for making rigid foam panel templates)
+ - [x] 2 * [15 ft. x 2 in Industrial Strength VELCRO Tape tape](https://www.velcro.com/products/industrial-strength/900400__industrial-strength?shape=roll&size=15ft-x-2in&color=white)
+ - [x] 5 * [Rmax Thermasheath-3 1 in. x 4 ft. x 8 ft. R-6 Polyisocyanurate Rigid Foam Insulation Board](https://www.homedepot.com/p/Thermasheath-Rmax-Thermasheath-3-1-in-x-4-ft-x-8-ft-R-6-Polyisocyanurate-Rigid-Foam-Insulation-Board-787264/100549260)
  - [ ] 2 * [FOAMULAR 1/2 in. x 4 ft. x 8 ft. R-3 Squared Edge Insulating Sheathing](https://www.homedepot.com/p/Owens-Corning-FOAMULAR-1-2-in-x-4-ft-x-8-ft-R-3-Squared-Edge-Insulating-Sheathing-36L/100320356)
 
 ### Panel Manifest
