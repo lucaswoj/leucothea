@@ -3,7 +3,7 @@ title: Rigid Foam Insulation
 dependencies: rustproofing
 startDate:
 endDate:
-duration: 3
+duration: 2
 ---
 
 See also the [soft insulation project page]({{site.baseurl}}/{% link _projects/soft-insulation.md %}).

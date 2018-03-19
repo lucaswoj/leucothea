@@ -6,6 +6,7 @@ dependencies:
 startDate: March 23, 2018
 endDate:
 duration: 3
+archived: true
 ---
 
 ## Requirements

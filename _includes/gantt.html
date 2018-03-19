@@ -24,15 +24,17 @@
       ],
       rows: [
         {% for project in site.projects %}
-          {c: [
-            { v: {{project.slug | jsonify}} }, // Task ID
-            { v: {{project.title | jsonify}} }, // Task Name
-            { v: {% if project.startDate %} new Date({{project.startDate | jsonify}}) {% else %} null {% endif %} }, // Start Date
-            { v: {% if project.endDate %} new Date({{project.endDate | jsonify}}) {% else %} null {% endif %} }, // End Date
-            { v: {{project.duration | default: 2 | times: 86400000 | jsonify}} }, // Duration (ms)
-            { v: Math.round({{project.content | split: 'checked="checked"' | size | minus: 1 }} / {{project.content | split: 'type="checkbox"' | size | minus: 1 }} * 100) || 0 }, // Percent Complete (1 - 100)
-            { v: {{project.dependencies | join: ',' | jsonify}} } // Dependencies
-          ]},
+          {% unless project.archived %}
+            {c: [
+              { v: {{project.slug | jsonify}} }, // Task ID
+              { v: {{project.title | jsonify}} }, // Task Name
+              { v: {% if project.startDate %} new Date({{project.startDate | jsonify}}) {% else %} null {% endif %} }, // Start Date
+              { v: {% if project.endDate %} new Date({{project.endDate | jsonify}}) {% else %} null {% endif %} }, // End Date
+              { v: {{project.duration | default: 2 | times: 86400000 | jsonify}} }, // Duration (ms)
+              { v: Math.round({{project.content | split: 'checked="checked"' | size | minus: 1 }} / {{project.content | split: 'type="checkbox"' | size | minus: 1 }} * 100) || 0 }, // Percent Complete (1 - 100)
+              { v: {{project.dependencies | join: ',' | jsonify}} } // Dependencies
+            ]},
+          {% endunless %}
         {% endfor %}
       ]
     });

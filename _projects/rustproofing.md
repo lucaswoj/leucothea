@@ -3,7 +3,7 @@ title: Rustproofing
 dependencies:
 startDate:
 endDate:
-duration: 2
+duration: 1
 ---
 
 ## Requirements

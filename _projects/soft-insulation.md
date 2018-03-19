@@ -3,7 +3,7 @@ title: Soft Insulation
 dependencies: rustproofing
 startDate:
 endDate:
-duration: 3
+duration: 2
 ---
 
 See also the [rigid foam insulation project page]({{site.baseurl}}/{% link _projects/rigid-foam-insulation.md %}).
@@ -23,7 +23,7 @@ See also the [rigid foam insulation project page]({{site.baseurl}}/{% link _proj
 
 ### Materials
 
-- [ ] [1 bag Havenlock Wool R13 batts](https://www.amazon.com/gp/product/B079GB9FPJ/ref=ox_sc_act_title_1?smid=A2U898HQPA7W50&psc=1) (may be able to use loose fill)
+- [x] [1 bag Havenlock Wool R13 batts](https://www.amazon.com/gp/product/B079GB9FPJ/ref=ox_sc_act_title_1?smid=A2U898HQPA7W50&psc=1) (may be able to use loose fill)
 - [ ] rubber mats
 - [ ] velcro tape
 - [ ] wide tape

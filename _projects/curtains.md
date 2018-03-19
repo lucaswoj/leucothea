@@ -4,6 +4,7 @@ dependencies:
 startDate:
 endDate:
 duration:
+archived: true
 ---
 
 ## Requirements

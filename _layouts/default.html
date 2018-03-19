@@ -32,7 +32,23 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               {% for project in site.projects %}
-                <a class="dropdown-item {% if page.url == project.url %} active {% endif %}" href="{{project.url | relative_url}}">{{project.title}}</a>
+                {% unless project.archived %}
+                  <a class="dropdown-item {% if page.url == project.url %} active {% endif %}" href="{{project.url | relative_url}}">{{project.title}}</a>
+                {% endunless %}
+              {% endfor %}
+
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Archived Projects
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              {% for project in site.projects %}
+                {% if project.archived %}
+                  <a class="dropdown-item {% if page.url == project.url %} active {% endif %}" href="{{project.url | relative_url}}">{{project.title}}</a>
+                {% endif %}
               {% endfor %}
 
             </div>
